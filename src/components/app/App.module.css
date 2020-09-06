@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.App main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
